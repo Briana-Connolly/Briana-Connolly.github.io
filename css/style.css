@@ -1,0 +1,73 @@
+*{
+  font-family: 'Quicksand', sans-serif;
+}
+
+.hero-home{
+  background-image: url("../images/home_screen.jpg");
+  background-size: cover;
+}
+
+.welcome{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #333030;
+  /* color: white; */
+  font-size: 200px;
+
+}
+
+.sub{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+}
+.sub a{
+margin-left:40px;
+}
+a{
+  color: #333030;
+}
+a:hover{
+  color: white;
+}
+#name{
+  color: #FFBF00;
+  font-size:50px;
+}
+
+.navbar-end{
+  color: #6A6262;
+  font-size: 25px;
+}
+
+ .profile {
+  border-radius: 50%;
+  width: 55%;
+  margin-left: 5px;
+}
+
+.bio{
+  font-size: 32px;
+  margin-top: 45px;
+}
+
+.button{
+  background-color: #D4ADCF;
+  border: 0px;
+}
+
+.button:hover{
+  background-color: #FFBF00;
+  border: 0px;
+}
+
+.resume-button{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+}
