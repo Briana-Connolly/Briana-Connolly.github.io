@@ -1,3 +1,14 @@
+.profile {
+  border-radius: 50%;
+  width: 55%;
+  margin-left: 5px;
+}
+
+.bio{
+  font-size: 30px;
+  margin-top: 45px;
+}
+
 .contact-info{
     text-align: center;
 }
@@ -18,4 +29,19 @@
 
   a:hover img{
       background-color: #FFBF00;  
+    }
+
+    @media only screen and (max-width: 600px) {
+      .profile{
+ 
+        margin-left: 25%
+      }
+      
+      .bio{
+        text-align: center;
+      }
+      .resume{
+        margin-left: 35%
+      }
+    
     }

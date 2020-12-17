@@ -44,17 +44,6 @@ a:hover{
   font-size: 25px;
 }
 
- .profile {
-  border-radius: 50%;
-  width: 55%;
-  margin-left: 5px;
-}
-
-.bio{
-  font-size: 30px;
-  margin-top: 45px;
-}
-
 .button{
   background-color: #D4ADCF;
   border: 0px;
@@ -89,5 +78,6 @@ color: white;
 .sub a:hover{
   color: #333030;
 }
+
 
 }
