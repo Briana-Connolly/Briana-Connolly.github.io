@@ -51,7 +51,7 @@ a:hover{
 }
 
 .bio{
-  font-size: 32px;
+  font-size: 30px;
   margin-top: 45px;
 }
 
@@ -63,11 +63,4 @@ a:hover{
 .button:hover{
   background-color: #FFBF00;
   border: 0px;
-}
-
-.resume-button{
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 25px;
 }

@@ -1,0 +1,21 @@
+.contact-info{
+    text-align: center;
+}
+.resume{
+    font-size: 25px;
+    width: 120px;
+    margin-top: 10px;
+  }
+  
+.linkedIn img{
+    width: 120px;
+    border-radius: 20px;
+  } 
+
+  .github img{
+    border-radius: 120px;
+  }
+
+  a:hover img{
+      background-color: #FFBF00;  
+    }
