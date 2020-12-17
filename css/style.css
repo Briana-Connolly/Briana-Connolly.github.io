@@ -12,8 +12,8 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #333030;
-  /* color: white; */
+  
+  color: white;
   font-size: 200px;
 
 }
@@ -29,10 +29,10 @@
 margin-left:40px;
 }
 a{
-  color: #333030;
+  color: white;
 }
 a:hover{
-  color: white;
+  color:#333030;
 }
 #name{
   color: #FFBF00;
@@ -60,7 +60,7 @@ a:hover{
   top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: ##FFBF00;
   /* color: white; */
   font-size: 75px;
 }
@@ -69,7 +69,7 @@ a:hover{
   top: 25%;
   left: 50%;
  
-  font-size: 30px;
+  font-size: 40px;
 }
 .sub a{
 margin-left:40px;
