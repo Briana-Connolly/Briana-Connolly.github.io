@@ -64,3 +64,30 @@ a:hover{
   background-color: #FFBF00;
   border: 0px;
 }
+
+@media only screen and (max-width: 600px) {
+  .welcome{
+    position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  /* color: white; */
+  font-size: 75px;
+}
+.sub{
+  position: absolute;
+  top: 25%;
+  left: 50%;
+ 
+  font-size: 30px;
+}
+.sub a{
+margin-left:40px;
+color: white;
+}
+.sub a:hover{
+  color: #333030;
+}
+
+}
